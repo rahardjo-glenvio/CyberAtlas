@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Style Guide
+    url: https://github.com/USERNAME/REPO/blob/main/docs/style-guide.md
+    about: Read the style guide before contributing content
+  - name: Roadmap
+    url: https://github.com/USERNAME/REPO/blob/main/docs/roadmap.md
+    about: Check the roadmap before suggesting new topics
