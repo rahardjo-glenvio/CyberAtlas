@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="600" alt="CyberAtlas">
+<img src="assets/banner.png" width="100%" alt="CyberAtlas">
 
 </div>
 
