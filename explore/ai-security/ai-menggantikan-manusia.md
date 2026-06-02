@@ -11,7 +11,7 @@ tags: [AI, future-of-work, automation, job-displacement, human-augmentation]
 
 # AI Menggantikan Manusia: Ancaman Nyata atau Alarm Palsu?
 
-McKinsey pernah bikin report yang bilang sekitar 375 juta pekerjaan di seluruh dunia bisa hilang karena AI pada 2030. Angka yang cukup bikin panik. Tapi sebelum lo langsung update LinkedIn dengan "Open to Work" karena takut kena giliran, ada hal yang perlu dipahami lebih dalam. Karena cerita soal AI replacing jobs jauh lebih complicated dari yang keliatan di headline.
+McKinsey pernah bikin report yang bilang sekitar **375 juta pekerja** di seluruh dunia berpotensi perlu ganti karir pada 2030 karena otomasi dan AI. WEF dalam Future of Jobs Report 2025 memproyeksikan **83 juta pekerjaan** akan hilang dalam lima tahun ke depan. Angka yang cukup bikin panik. Tapi sebelum lo langsung update LinkedIn dengan "Open to Work" karena takut kena giliran, ada hal yang perlu dipahami lebih dalam. Karena cerita soal AI replacing jobs jauh lebih complicated dari yang keliatan di headline.
 
 ---
 
@@ -35,7 +35,9 @@ Mari jujur dulu. Ketakutan ini bukan lebay, dan bukan sekadar clickbait media.
 
 AI sudah benar-benar menggantikan beberapa pekerjaan. Customer service chatbot sudah mengurangi kebutuhan human agent untuk pertanyaan-pertanyaan yang simple. AI writing tools bikin beberapa klien milih tidak hire penulis untuk konten yang basic. Software akuntansi otomatis mengurangi jam kerja yang dibutuhkan dari seorang bookkeeper.
 
-Jadi ya, ada yang berubah. Beberapa jenis pekerjaan memang sedang berkurang atau berubah drastis. Kalau pekerjaan lo sifatnya sangat repetitive dan tinggal ikutin aturan yang sama terus, ini worth diperhatiin.
+Menurut Goldman Sachs (2023), sekitar **300 juta full-time jobs** di seluruh dunia berpotensi terotomasi sebagian oleh AI. Bukan hilang total, tapi berubah cukup signifikan sehingga skill yang dibutuhkan ikut bergeser. Dan pergeseran itu tidak menunggu semua orang siap.
+
+Jadi ya, ada yang berubah. Beberapa jenis pekerjaan memang sedang berkurang atau berubah drastis. Kalau pekerjaan lo sifatnya sangat repetitive dan ikutin aturan yang sama terus, ini worth diperhatiin.
 
 Tapi "berubah" dan "hilang total" adalah dua hal yang sangat berbeda.
 
@@ -47,7 +49,16 @@ Narasi "AI akan menggantikan semua pekerjaan" punya satu kelemahan besar: dia me
 
 AI tidak menggantikan pekerjaan secara keseluruhan. AI menggantikan tugas-tugas tertentu di dalam pekerjaan itu.
 
-Contoh nyata: dokter radiologi. AI sudah terbukti bisa mendeteksi beberapa jenis kanker dari hasil scan dengan tingkat akurasi yang mirip dokter spesialis. Apakah dokter radiologi jadi tidak diperlukan lagi? Tidak. Yang terjadi: tugas membaca scan yang berulang-ulang bisa di-assist AI, sementara dokternya fokus ke kasus yang lebih rumit, komunikasi dengan pasien, dan keputusan klinis yang butuh banyak konteks — hal-hal yang jauh lebih dalam dari sekadar "ada atau tidak ada sesuatu yang aneh di gambar ini."
+Berdasarkan analisis McKinsey, hanya sekitar **30% tugas** dalam pekerjaan yang benar-benar highly automatable saat ini. Sekitar 44% bisa diotomasi sebagian, dan 26% sisanya tetap membutuhkan human judgment yang sulit di-replicate AI.
+
+```mermaid
+pie title Kategori Tugas Berdasarkan Risiko Otomasi AI (McKinsey)
+    "Sangat Rentan (Repetitive & Rule-based)" : 30
+    "Risiko Sedang (Sebagian Bisa Diotomasi)" : 44
+    "Rendah (Butuh Human Judgment)" : 26
+```
+
+Contoh nyata: dokter radiologi. AI sudah terbukti bisa mendeteksi beberapa jenis kanker dari hasil scan dengan tingkat akurasi yang mirip dokter spesialis. Apakah dokter radiologi jadi tidak diperlukan lagi? Tidak. Yang terjadi: tugas membaca scan yang berulang-ulang bisa di-assist AI, sementara dokternya fokus ke kasus yang lebih rumit, komunikasi dengan pasien, dan keputusan klinis yang butuh banyak konteks.
 
 Pattern ini sama di hampir semua profesi yang katanya "terancam" AI.
 
@@ -84,6 +95,16 @@ Di sinilah perspektif sering terlalu pesimis. Ada hal-hal yang memang susah bang
 ## Sisi Positif yang Jarang Disorot
 
 Bagian ini paling jarang dapat spotlight, karena "AI creates new jobs" tidak se-dramatis "AI destroys jobs" sebagai headline.
+
+WEF dalam laporan yang sama memproyeksikan bahwa meski **83 juta pekerjaan** akan hilang, akan ada **170 juta pekerjaan baru** yang emerging — net positif sebesar 87 juta posisi secara global.
+
+```mermaid
+xychart-beta
+    title "Proyeksi Dampak AI terhadap Lapangan Kerja Global - Juta Posisi (WEF 2025)"
+    x-axis ["Pekerjaan Hilang", "Pekerjaan Baru Tercipta"]
+    y-axis "Jumlah (Juta)" 0 --> 200
+    bar [83, 170]
+```
 
 **AI menciptakan jenis pekerjaan baru yang belum pernah ada.** Prompt engineer, AI trainer, AI ethics officer, AI output checker: lima tahun lalu job title ini tidak ada. Sekarang ada, dan demand-nya terus naik.
 
@@ -123,44 +144,11 @@ Ini bukan soal melawan AI atau menghindarinya. Ini soal positioning diri dengan 
 
 ---
 
-## Data & Statistik
-
-### Proyeksi Dampak AI terhadap Lapangan Kerja Global
-
-```mermaid
-xychart-beta
-    title "Dampak AI terhadap Lapangan Kerja Global - Juta Posisi (WEF 2025)"
-    x-axis ["Pekerjaan Hilang", "Pekerjaan Baru"]
-    y-axis "Jumlah (Juta)" 0 --> 100
-    bar [83, 69]
-```
-
-```mermaid
-pie title Kategori Pekerjaan Berdasarkan Risiko Otomasi AI
-    "Sangat Rentan (Repetitive & Rule-based)" : 30
-    "Risiko Sedang (Sebagian Bisa Diotomasi)" : 44
-    "Rendah (Butuh Human Judgment)" : 26
-```
-
-### Angka-Angka Kunci
-
-| Sumber | Angka | Konteks |
-|---|---|---|
-| McKinsey Global Institute (2017) | 375 juta | Pekerja global yang perlu ganti karir pada 2030 |
-| WEF Future of Jobs Report (2025) | 83 juta | Pekerjaan yang diperkirakan hilang 2025-2030 |
-| WEF Future of Jobs Report (2025) | 69 juta | Pekerjaan baru yang akan tercipta 2025-2030 |
-| WEF Future of Jobs Report (2025) | 170 juta | Total pekerjaan baru yang sedang emerging |
-| Goldman Sachs (2023) | 300 juta | Full-time jobs berpotensi terotomasi sebagian |
-
-> **Catatan:** Angka-angka ini adalah proyeksi, bukan kepastian. Metodologi tiap lembaga berbeda dan terus direvisi seiring perkembangan AI yang bergerak lebih cepat dari prediksi.
-
----
-
 ## Key Takeaways
 
 - AI menggantikan tugas, bukan langsung menggantikan pekerjaan. Setiap pekerjaan adalah kumpulan tugas, dan AI hanya capable di sebagian dari tugas-tugas itu.
 - Perubahan memang nyata untuk jenis pekerjaan yang sangat repetitive dan ikutin aturan yang sama terus.
-- AI juga menciptakan pekerjaan baru, mengangkat produktivitas, dan bikin expertise lebih mudah diakses.
+- WEF memproyeksikan 83 juta pekerjaan hilang tapi 170 juta pekerjaan baru tercipta — net positif secara global.
 - Sejarah menunjukkan bahwa teknologi besar pada akhirnya meningkatkan total pekerjaan, tapi transisinya bisa sulit bagi yang tidak adapt.
 - AI bergerak lebih cepat dari perubahan teknologi sebelumnya, jadi adaptasi aktif jadi lebih penting.
 - Yang paling aman bukan yang menghindari AI, tapi yang tahu cara kerja sama AI.
@@ -170,7 +158,8 @@ pie title Kategori Pekerjaan Berdasarkan Risiko Otomasi AI
 ## Sources
 
 - McKinsey Global Institute, *Jobs Lost, Jobs Gained: Workforce Transitions in a Time of Automation*, 2017
-- World Economic Forum, *The Future of Jobs Report 2023*, weforum.org
+- World Economic Forum, *The Future of Jobs Report 2025*, weforum.org
+- Goldman Sachs, *The Potentially Large Effects of Artificial Intelligence on Economic Growth*, 2023
 - David Autor, *Work of the Past, Work of the Future*, AEA Papers and Proceedings, 2019
 - [MIT Technology Review: The jobs AI will create](https://www.technologyreview.com)
 
