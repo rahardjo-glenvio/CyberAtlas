@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/assets/banner.png" width="100%" alt="CyberAtlas">
+
 # CyberAtlas
 
 **Mapping the World of Cybersecurity**
