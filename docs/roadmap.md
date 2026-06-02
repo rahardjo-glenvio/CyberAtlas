@@ -1,3 +1,9 @@
+<div align="center">
+
+![CyberAtlas](assets/banner.png)
+
+</div>
+
 # Roadmap CyberAtlas
 
 This document tracks planned content, work in progress, and long-term direction for the repository.
