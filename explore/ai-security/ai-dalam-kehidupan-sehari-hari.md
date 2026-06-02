@@ -146,6 +146,45 @@ Bukan soal adopt semua atau tolak semua. Soal pakai dengan sadar.
 
 ---
 
+## Data & Statistik
+
+### Adopsi AI per Sektor (2024)
+
+```mermaid
+pie title Proporsi Organisasi yang Sudah Adopsi AI per Sektor (2024)
+    "Financial Services" : 85
+    "Technology" : 82
+    "Retail & E-commerce" : 63
+    "Manufacturing" : 55
+    "Healthcare" : 67
+    "Education" : 48
+```
+
+### Pertumbuhan Pengguna Generative AI
+
+```mermaid
+xychart-beta
+    title "Pertumbuhan Pengguna Aktif Generative AI (Juta)"
+    x-axis ["2022", "2023", "2024", "2025 (est)"]
+    y-axis "Pengguna (Juta)" 0 --> 700
+    line [5, 180, 400, 650]
+```
+
+### Angka-Angka Kunci
+
+| Statistik | Angka | Sumber |
+|---|---|---|
+| Pengguna aktif ChatGPT (2024) | 180 juta+ | OpenAI |
+| Organisasi global yang sudah pakai AI | 72% | McKinsey Global Survey 2024 |
+| Peningkatan produktivitas dengan AI coding tools | +55% | GitHub Copilot Research 2023 |
+| Email spam yang difilter AI setiap hari | 99.9% dari 15 miliar email | Google |
+| Fraud perbankan yang berhasil dideteksi AI | $27 miliar | Juniper Research 2023 |
+| Penghematan waktu rata-rata dengan AI tools | 2.5 jam/hari | Salesforce 2024 |
+
+> **Konteks Indonesia:** Berdasarkan Google-Temasek-Bain e-Conomy SEA 2023, Indonesia adalah pasar AI dengan pertumbuhan tercepat di Asia Tenggara, dengan adopsi AI di sektor keuangan dan e-commerce memimpin.
+
+---
+
 ## Key Takeaways
 
 - AI sudah tertanam dalam kehidupan digital sehari-hari jauh sebelum era AI yang sekarang ramai: dari rekomendasi konten sampai deteksi penipuan.

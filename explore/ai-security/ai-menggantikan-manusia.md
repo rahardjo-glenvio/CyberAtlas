@@ -123,6 +123,39 @@ Ini bukan soal melawan AI atau menghindarinya. Ini soal positioning diri dengan 
 
 ---
 
+## Data & Statistik
+
+### Proyeksi Dampak AI terhadap Lapangan Kerja Global
+
+```mermaid
+xychart-beta
+    title "Dampak AI terhadap Lapangan Kerja Global - Juta Posisi (WEF 2025)"
+    x-axis ["Pekerjaan Hilang", "Pekerjaan Baru"]
+    y-axis "Jumlah (Juta)" 0 --> 100
+    bar [83, 69]
+```
+
+```mermaid
+pie title Kategori Pekerjaan Berdasarkan Risiko Otomasi AI
+    "Sangat Rentan (Repetitive & Rule-based)" : 30
+    "Risiko Sedang (Sebagian Bisa Diotomasi)" : 44
+    "Rendah (Butuh Human Judgment)" : 26
+```
+
+### Angka-Angka Kunci
+
+| Sumber | Angka | Konteks |
+|---|---|---|
+| McKinsey Global Institute (2017) | 375 juta | Pekerja global yang perlu ganti karir pada 2030 |
+| WEF Future of Jobs Report (2025) | 83 juta | Pekerjaan yang diperkirakan hilang 2025-2030 |
+| WEF Future of Jobs Report (2025) | 69 juta | Pekerjaan baru yang akan tercipta 2025-2030 |
+| WEF Future of Jobs Report (2025) | 170 juta | Total pekerjaan baru yang sedang emerging |
+| Goldman Sachs (2023) | 300 juta | Full-time jobs berpotensi terotomasi sebagian |
+
+> **Catatan:** Angka-angka ini adalah proyeksi, bukan kepastian. Metodologi tiap lembaga berbeda dan terus direvisi seiring perkembangan AI yang bergerak lebih cepat dari prediksi.
+
+---
+
 ## Key Takeaways
 
 - AI menggantikan tugas, bukan langsung menggantikan pekerjaan. Setiap pekerjaan adalah kumpulan tugas, dan AI hanya capable di sebagian dari tugas-tugas itu.

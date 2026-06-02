@@ -186,6 +186,56 @@ Ada pembahasan lebih dalam tentang phishing dan social engineering di [Social En
 
 ---
 
+## Data & Statistik
+
+### Distribusi Serangan Siber Berbasis AI (2024)
+
+```mermaid
+pie title Jenis Serangan Siber yang Memanfaatkan AI (2024)
+    "AI-Enhanced Phishing & Spear Phishing" : 40
+    "Automated Vulnerability Scanning" : 25
+    "Deepfake Social Engineering" : 15
+    "AI-Generated Malware Variants" : 12
+    "Credential Stuffing Automation" : 8
+```
+
+### Dampak AI terhadap Biaya Data Breach
+
+```mermaid
+xychart-beta
+    title "Rata-rata Biaya Data Breach Berdasarkan Penggunaan AI (USD Juta) - IBM 2024"
+    x-axis ["Tanpa AI Security", "AI Terbatas", "AI Security Penuh"]
+    y-axis "Biaya (USD Juta)" 0 --> 6
+    bar [5.36, 4.21, 3.05]
+```
+
+### Angka-Angka Kunci
+
+| Statistik | Angka | Sumber |
+|---|---|---|
+| Peningkatan volume phishing attack | +61% (2022) | SlashNext State of Phishing 2022 |
+| Phishing email yang dibuat AI lebih convincing | 3x lebih efektif | Hoxhunt Research 2023 |
+| Waktu deteksi lebih cepat dengan AI | 74 hari lebih cepat | IBM Cost of Data Breach 2024 |
+| Rata-rata biaya breach tanpa AI security | $5.36 juta | IBM Cost of Data Breach 2024 |
+| Rata-rata biaya breach dengan AI penuh | $3.05 juta | IBM Cost of Data Breach 2024 |
+| Penghematan biaya dengan AI security | $2.22 juta per insiden | IBM Cost of Data Breach 2024 |
+| Pengurangan false positive alerts dengan AI | hingga 70% | Darktrace Annual Threat Report |
+| SOC analyst yang sudah pakai AI tools | 69% | ESG Research 2024 |
+
+### Waktu Rata-rata Siklus Insiden (Dengan vs Tanpa AI)
+
+```mermaid
+xychart-beta
+    title "Rata-rata Waktu (Hari) - Dengan vs Tanpa AI Security"
+    x-axis ["Deteksi Breach", "Containment", "Total MTTD+MTTR"]
+    y-axis "Hari" 0 --> 300
+    bar [197, 73, 270]
+```
+
+> Dengan AI security: rata-rata total turun menjadi 196 hari (IBM 2024). Tanpa AI: 270 hari.
+
+---
+
 ## Key Takeaways
 
 - AI digunakan oleh kedua sisi: penyerang pakai untuk scale phishing, otomasi pencarian celah, dan buat deepfake yang meyakinkan. Defender pakai untuk deteksi ancaman yang lebih cepat, kurangi alert berlebihan, dan respon otomatis.
