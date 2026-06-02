@@ -190,6 +190,9 @@ Before contributing, read the [Contributing Guide](CONTRIBUTING.md) and the [Sty
 
 | Date | Section | Topic |
 |------|---------|-------|
+| 2026-06-02 | Explore / AI Security | [AI dalam Cybersecurity: Senjata Baru di Kedua Sisi](explore/ai-security/ai-dalam-cybersecurity.md) |
+| 2026-06-02 | Explore / AI Security | [AI dalam Kehidupan dan Pekerjaan Sehari-Hari](explore/ai-security/ai-dalam-kehidupan-sehari-hari.md) |
+| 2026-06-02 | Explore / AI Security | [AI Menggantikan Manusia: Ancaman Nyata atau Alarm Palsu?](explore/ai-security/ai-menggantikan-manusia.md) |
 | 2026-06-01 | Laws & Privacy | [UU PDP — Undang-Undang Perlindungan Data Pribadi Indonesia](laws-and-privacy/data-protection/uu-pdp-indonesia.md) |
 
 ---

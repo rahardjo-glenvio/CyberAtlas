@@ -15,6 +15,15 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [0.3.0] — 2026-06-02
+
+### Added
+- `explore/ai-security/ai-menggantikan-manusia.md` - AI replacing jobs: konteks, data historis, dan perspektif positif
+- `explore/ai-security/ai-dalam-kehidupan-sehari-hari.md` - AI yang sudah embedded dalam kehidupan dan pekerjaan sehari-hari
+- `explore/ai-security/ai-dalam-cybersecurity.md` - AI sebagai senjata serangan dan alat pertahanan, plus dampaknya ke profesi security
+
+---
+
 ## [0.2.0] — 2026-06-01
 
 ### Added

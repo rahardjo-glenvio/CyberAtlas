@@ -10,7 +10,9 @@ AI is neither a silver bullet for defense nor an unstoppable force for attackers
 
 | File | Description | Status |
 |---|---|---|
-| *(coming soon)* | | |
+| [ai-menggantikan-manusia.md](ai-menggantikan-manusia.md) | AI replacing jobs: ancaman nyata atau alarm palsu? Konteks, data, dan perspektif positif | published |
+| [ai-dalam-kehidupan-sehari-hari.md](ai-dalam-kehidupan-sehari-hari.md) | Bagaimana AI sudah embedded dalam kehidupan dan pekerjaan sehari-hari | published |
+| [ai-dalam-cybersecurity.md](ai-dalam-cybersecurity.md) | AI sebagai senjata serangan dan alat pertahanan, plus dampaknya ke profesi security | published |
 
 ---
 
