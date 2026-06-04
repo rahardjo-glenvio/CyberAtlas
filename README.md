@@ -199,9 +199,24 @@ Before contributing, read the [Contributing Guide](CONTRIBUTING.md) and the [Sty
 
 ---
 
-## License
+## Gunakan Sesukamu / Free to Use
 
-Content in this repository is licensed under [MIT](LICENSE) unless otherwise specified. Attribution is appreciated.
+Semua konten di CyberAtlas bebas digunakan.
+
+Kalau ada artikel di sini yang membantu lo belajar, jadi bahan ajar di kelas, dijadikan referensi penelitian, dikutip di tulisan lo, atau bahkan jadi titik awal seseorang untuk terjun ke dunia cybersecurity: itu jauh lebih berarti dari sekadar angka views.
+
+CyberAtlas dibangun dengan satu tujuan: supaya pemahaman tentang cybersecurity bisa diakses siapa saja, bukan hanya yang punya akses ke kursus mahal atau komunitas tertutup.
+
+Boleh dipakai untuk:
+- Bahan ajar di sekolah atau kampus
+- Referensi tulisan, artikel, atau laporan
+- Materi pelatihan atau workshop
+- Belajar mandiri
+- Apapun yang membuat orang lebih paham tentang keamanan siber
+
+Satu-satunya yang kami minta: kalau lo mengutip atau menggunakan konten ini secara signifikan, cantumkan CyberAtlas sebagai sumbernya. Bukan kewajiban hukum, tapi menghargai kerja yang sudah dimasukkan ke sini.
+
+Lisensi resmi: [MIT](LICENSE)
 
 ---
 
