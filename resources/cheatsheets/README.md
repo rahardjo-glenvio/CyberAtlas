@@ -10,7 +10,12 @@ Cheatsheets are not substitutes for understanding. They are memory aids for comm
 
 | File | Coverage |
 |---|---|
-| *(coming soon)* | |
+| [tools/nmap.md](tools/nmap.md) | Nmap flags, scan types, dan kombinasi CTF |
+| [tools/sqlmap.md](tools/sqlmap.md) | SQLMap commands, enumerasi, tamper scripts |
+| [tools/ffuf.md](tools/ffuf.md) | ffuf fuzzing, filter, dan wordlist |
+| [tools/burpsuite.md](tools/burpsuite.md) | Burp Suite shortcuts, Proxy, Repeater, Intruder |
+| [payload/sql-injection.md](payload/sql-injection.md) | SQL injection payloads lengkap per teknik |
+| [payload/xss.md](payload/xss.md) | XSS payloads, bypass filter, dan context-based |
 
 ---
 
