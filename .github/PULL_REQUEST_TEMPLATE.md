@@ -1,4 +1,4 @@
-## Summary
+﻿## Summary
 
 *What does this pull request add or change?*
 
@@ -20,7 +20,7 @@
 **Content**
 - [ ] Content uses the appropriate template from `_templates/`
 - [ ] Frontmatter is complete (title, section, topic, dates, status, tags)
-- [ ] Status is set to `draft` or `review` — not `published` unless fully complete
+- [ ] Status is set to `draft` or `review`: not `published` unless fully complete
 - [ ] All factual claims are verifiable and sources are listed
 - [ ] No placeholder text remains in the file
 

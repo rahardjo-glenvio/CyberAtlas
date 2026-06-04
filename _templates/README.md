@@ -1,4 +1,4 @@
-# Templates
+﻿# Templates
 
 Templates for all content types in this repository.
 

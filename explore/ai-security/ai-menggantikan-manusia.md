@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI Menggantikan Manusia: Ancaman Nyata atau Alarm Palsu?"
 section: explore
 topic: ai-security
@@ -96,7 +96,7 @@ Di sinilah perspektif sering terlalu pesimis. Ada hal-hal yang memang susah bang
 
 Bagian ini paling jarang dapat spotlight, karena "AI creates new jobs" tidak se-dramatis "AI destroys jobs" sebagai headline.
 
-WEF dalam laporan yang sama memproyeksikan bahwa meski **83 juta pekerjaan** akan hilang, akan ada **170 juta pekerjaan baru** yang emerging — net positif sebesar 87 juta posisi secara global.
+WEF dalam laporan yang sama memproyeksikan bahwa meski **83 juta pekerjaan** akan hilang, akan ada **170 juta pekerjaan baru** yang emerging: net positif sebesar 87 juta posisi secara global.
 
 ```mermaid
 xychart-beta
@@ -148,7 +148,7 @@ Ini bukan soal melawan AI atau menghindarinya. Ini soal positioning diri dengan 
 
 - AI menggantikan tugas, bukan langsung menggantikan pekerjaan. Setiap pekerjaan adalah kumpulan tugas, dan AI hanya capable di sebagian dari tugas-tugas itu.
 - Perubahan memang nyata untuk jenis pekerjaan yang sangat repetitive dan ikutin aturan yang sama terus.
-- WEF memproyeksikan 83 juta pekerjaan hilang tapi 170 juta pekerjaan baru tercipta — net positif secara global.
+- WEF memproyeksikan 83 juta pekerjaan hilang tapi 170 juta pekerjaan baru tercipta: net positif secara global.
 - Sejarah menunjukkan bahwa teknologi besar pada akhirnya meningkatkan total pekerjaan, tapi transisinya bisa sulit bagi yang tidak adapt.
 - AI bergerak lebih cepat dari perubahan teknologi sebelumnya, jadi adaptasi aktif jadi lebih penting.
 - Yang paling aman bukan yang menghindari AI, tapi yang tahu cara kerja sama AI.

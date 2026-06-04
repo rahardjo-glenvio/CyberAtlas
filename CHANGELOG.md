@@ -1,4 +1,4 @@
-# Changelog
+﻿# Changelog
 
 All notable additions, revisions, and structural changes to CyberAtlas are documented here.
 
@@ -15,7 +15,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [0.3.0] — 2026-06-02
+## [0.3.0]: 2026-06-02
 
 ### Added
 - `explore/ai-security/ai-menggantikan-manusia.md` - AI replacing jobs: konteks, data historis, dan perspektif positif
@@ -24,7 +24,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [0.2.0] — 2026-06-01
+## [0.2.0]: 2026-06-01
 
 ### Added
 - First content file: `laws-and-privacy/data-protection/uu-pdp-indonesia.md`
@@ -33,7 +33,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [0.1.0] — 2026-06-01
+## [0.1.0]: 2026-06-01
 
 ### Added
 - Repository structure and architecture

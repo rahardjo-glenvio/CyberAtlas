@@ -1,4 +1,4 @@
----
+﻿---
 title: "Law / Regulation Name"
 section: laws-and-privacy
 category: data-protection | compliance | digital-ethics
@@ -31,7 +31,7 @@ Brief history of the legislative process if relevant to understanding the law's 
 
 ## Who It Applies To
 
-**Organizations affected:** What types of organizations must comply? Are there size thresholds? Revenue thresholds? Geographic scope — does it apply to foreign organizations processing data about residents?
+**Organizations affected:** What types of organizations must comply? Are there size thresholds? Revenue thresholds? Geographic scope: does it apply to foreign organizations processing data about residents?
 
 **Individuals covered:** Which data subjects are protected? Citizens? Residents? Anyone whose data is processed in the jurisdiction?
 
@@ -78,7 +78,7 @@ What is the maximum penalty? How is it calculated?
 
 ## Practical Implications for Security
 
-From a security professional's perspective — what does compliance with this law require in practice?
+From a security professional's perspective: what does compliance with this law require in practice?
 
 - Technical controls implied or required
 - Documentation and audit trail requirements
@@ -103,9 +103,9 @@ How does this law relate to other regulations in the same jurisdiction or overla
 
 ## Further Reading
 
-- [Official text](https://url.example.com) — link to official source
+- [Official text](https://url.example.com): link to official source
 - [Regulatory authority guidance](https://url.example.com)
-- [Practical compliance guide](https://url.example.com) — note on who it's useful for
+- [Practical compliance guide](https://url.example.com): note on who it's useful for
 
 ---
 

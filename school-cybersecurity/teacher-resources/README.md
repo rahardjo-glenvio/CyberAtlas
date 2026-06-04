@@ -1,4 +1,4 @@
-# Teacher Resources
+﻿# Teacher Resources
 
 Security guidance and resources for educators.
 

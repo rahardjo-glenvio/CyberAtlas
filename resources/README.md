@@ -1,8 +1,8 @@
-# Resources
+﻿# Resources
 
 Curated references for going deeper.
 
-This section collects books, courses, tools, and references that are worth your time. It is not a comprehensive list of everything available. It is a selective list of resources that offer genuine value — with brief notes explaining what each one is good for.
+This section collects books, courses, tools, and references that are worth your time. It is not a comprehensive list of everything available. It is a selective list of resources that offer genuine value: with brief notes explaining what each one is good for.
 
 ---
 
@@ -12,7 +12,7 @@ This section collects books, courses, tools, and references that are worth your 
 |---|---|
 | [books.md](books.md) | Books organized by domain and learning stage |
 | [courses.md](courses.md) | Free and paid courses, categorized by topic and format |
-| [tools.md](tools.md) | Security tools reference — what each does and when to use it |
+| [tools.md](tools.md) | Security tools reference: what each does and when to use it |
 | [cheatsheets/](cheatsheets/) | Quick reference sheets for commands, syntax, and processes |
 
 ---

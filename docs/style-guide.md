@@ -1,4 +1,4 @@
-# Style Guide
+﻿# Style Guide
 
 This guide defines writing conventions, formatting rules, and quality standards for all content in this repository. All contributions must conform to these standards.
 
@@ -8,7 +8,7 @@ This guide defines writing conventions, formatting rules, and quality standards 
 
 **Be direct.** Start with the point. Do not build up to it.
 
-**Write for understanding, not coverage.** A reader should finish a topic understanding it — not just having encountered it.
+**Write for understanding, not coverage.** A reader should finish a topic understanding it: not just having encountered it.
 
 **Cite claims.** If you state a fact that is not widely known, link to or name your source.
 
@@ -45,9 +45,9 @@ tags: [dns, networking, protocol]
 ```
 
 Status definitions:
-- `draft` — incomplete, not ready for reading
-- `review` — content complete, needs verification
-- `published` — accurate and complete
+- `draft`: incomplete, not ready for reading
+- `review`: content complete, needs verification
+- `published`: accurate and complete
 
 ---
 
@@ -124,7 +124,7 @@ Always include a header row. Align pipes consistently.
 
 ## Links
 
-Use descriptive link text — never "click here" or bare URLs in prose.
+Use descriptive link text: never "click here" or bare URLs in prose.
 
 ```markdown
 ✅ See the [OWASP Top 10](https://owasp.org/www-project-top-ten/) for the current list.
@@ -192,7 +192,7 @@ Reference with a relative path:
 
 Always include descriptive alt text.
 
-Do not embed screenshots of text — transcribe the relevant content as code blocks or prose.
+Do not embed screenshots of text: transcribe the relevant content as code blocks or prose.
 
 ---
 
@@ -203,7 +203,7 @@ Include a `## Sources` section at the bottom of any file that references externa
 ```markdown
 ## Sources
 
-- [Title of source](https://url.example.com) — brief note on what it covers
+- [Title of source](https://url.example.com): brief note on what it covers
 - Author, *Book Title*, Year
 ```
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI dalam Kehidupan dan Pekerjaan Sehari-Hari"
 section: explore
 topic: ai-security
@@ -15,7 +15,7 @@ Lo sudah pakai AI hari ini. Mungkin bahkan sebelum lo benar-benar sadar.
 
 Alarm yang belajar kapan lo biasanya bangun. Rekomendasi lagu di Spotify. Email yang auto-suggest balasan. Filter spam yang nangkap phishing sebelum sampai ke inbox lo. Google Maps yang kasih rute baru karena macet. Semua itu jalan di background, dijalankan oleh AI, dan lo tidak perlu tahu cara kerjanya untuk langsung merasakan manfaatnya.
 
-Menurut McKinsey Global Survey 2024, **72% organisasi di seluruh dunia** sudah mengadopsi AI dalam setidaknya satu fungsi bisnis mereka. Dan itu baru di level organisasi — di level individu, interaksi dengan AI terjadi miliaran kali setiap hari tanpa sebagian besar orang menyadarinya.
+Menurut McKinsey Global Survey 2024, **72% organisasi di seluruh dunia** sudah mengadopsi AI dalam setidaknya satu fungsi bisnis mereka. Dan itu baru di level organisasi: di level individu, interaksi dengan AI terjadi miliaran kali setiap hari tanpa sebagian besar orang menyadarinya.
 
 Tapi sekarang AI sudah bergerak dari background ke foreground. Dari sesuatu yang invisible jadi sesuatu yang lo aktif gunakan untuk berpikir, nulis, dan kerja. Dan pergeseran ini punya dampak yang lebih besar dari sekadar "teknologinya canggih."
 
@@ -40,7 +40,7 @@ Sebelum ChatGPT jadi mainstream di akhir 2022, AI sudah sangat dalam tertanam di
 
 **Rekomendasi konten.** Setiap kali YouTube autoplay ke video berikutnya, Netflix suggest tontonan, atau TikTok tahu persis konten apa yang bikin lo scroll terus: itu semua AI yang belajar dari kebiasaan lo dan terus menyesuaikan apa yang ditampilkan.
 
-**Deteksi penipuan.** Bank lo mungkin sudah beberapa kali secara diam-diam memblokir transaksi yang mencurigakan sebelum lo sempat tahu. Menurut Juniper Research 2023, AI berhasil mendeteksi dan mencegah penipuan senilai **$27 miliar** di sektor perbankan global — angka yang tidak mungkin dicapai dengan tim manusia saja.
+**Deteksi penipuan.** Bank lo mungkin sudah beberapa kali secara diam-diam memblokir transaksi yang mencurigakan sebelum lo sempat tahu. Menurut Juniper Research 2023, AI berhasil mendeteksi dan mencegah penipuan senilai **$27 miliar** di sektor perbankan global: angka yang tidak mungkin dicapai dengan tim manusia saja.
 
 **Mesin pencari.** Google tidak sekadar mencari kata yang lo ketik. Sudah bertahun-tahun Google pakai AI untuk memahami maksud di balik pencarian lo. "Tempat makan enak dekat sini" bisa kasih hasil yang relevan meski tidak ada halaman yang berisi kalimat persis itu.
 
@@ -58,7 +58,7 @@ Yang berubah sejak 2022 adalah AI menjadi tools yang bisa langsung dipakai siapa
 
 **ChatGPT, Claude, Gemini, dan sejenisnya**
 
-Ini perubahan yang paling besar. Untuk pertama kalinya, siapa pun bisa ngobrol dengan AI pakai bahasa sehari-hari, dan langsung dapat hasil yang berguna. ChatGPT saja sudah punya lebih dari **180 juta pengguna aktif** per 2024 — dan itu hanya satu dari banyak platform serupa.
+Ini perubahan yang paling besar. Untuk pertama kalinya, siapa pun bisa ngobrol dengan AI pakai bahasa sehari-hari, dan langsung dapat hasil yang berguna. ChatGPT saja sudah punya lebih dari **180 juta pengguna aktif** per 2024: dan itu hanya satu dari banyak platform serupa.
 
 Perlu dicatat: AI tidak selalu benar. Kadang AI menghasilkan jawaban yang terdengar meyakinkan tapi salah. Tapi sebagai teman berpikir dan alat untuk produktivitas: dampaknya besar.
 

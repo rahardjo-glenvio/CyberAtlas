@@ -1,4 +1,4 @@
----
+﻿---
 name: New Topic Request
 about: Request a specific topic be added to an existing section
 title: "[TOPIC] "
@@ -8,7 +8,7 @@ assignees: ''
 
 ## Topic name
 
-*What is the topic? Be specific — "SQL Injection" is better than "web security topics".*
+*What is the topic? Be specific: "SQL Injection" is better than "web security topics".*
 
 ---
 

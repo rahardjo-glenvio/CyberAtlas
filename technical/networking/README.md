@@ -1,8 +1,8 @@
-# Networking
+﻿# Networking
 
 Network protocols, traffic analysis, and network-level attack surfaces.
 
-Understanding the network is foundational to almost everything in cybersecurity — attacks travel over networks, defenses are deployed at network boundaries, and forensic investigations follow network traces.
+Understanding the network is foundational to almost everything in cybersecurity: attacks travel over networks, defenses are deployed at network boundaries, and forensic investigations follow network traces.
 
 ---
 

@@ -1,4 +1,4 @@
-# Data Protection
+﻿# Data Protection
 
 Data protection laws and privacy regulations by jurisdiction.
 

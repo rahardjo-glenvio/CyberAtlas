@@ -1,4 +1,4 @@
-# Digital Ethics
+﻿# Digital Ethics
 
 Surveillance, consent, algorithmic accountability, and the ethics of security.
 

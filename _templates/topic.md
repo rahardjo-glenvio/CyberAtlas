@@ -1,4 +1,4 @@
----
+﻿---
 title: "Topic Title Here"
 section: technical
 topic: domain-name
@@ -26,7 +26,7 @@ This section should be 2–4 paragraphs. A reader who has never heard of this to
 
 Explain the mechanism. Be specific. Use concrete examples.
 
-For technical topics, this section should explain the system, protocol, or process at a level where the security implications become obvious. Do not just define — show the structure.
+For technical topics, this section should explain the system, protocol, or process at a level where the security implications become obvious. Do not just define: show the structure.
 
 ```bash
 # Include relevant commands or code examples where they add clarity
@@ -63,7 +63,7 @@ Optional section. Include if there are widely held misconceptions that cause sec
 
 ## Related Topics
 
-- [Related Topic](../domain/related-topic.md) — brief note on the relationship
+- [Related Topic](../domain/related-topic.md): brief note on the relationship
 - [Another Topic](../../explore/topic/file.md)
 
 ---
@@ -78,7 +78,7 @@ Optional section. Include if there are widely held misconceptions that cause sec
 
 ## Sources
 
-- [Source Title](https://url.example.com) — note on what it covers
+- [Source Title](https://url.example.com): note on what it covers
 - Author, *Book Title*, Year, page range if relevant
 
 ---

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Incident Name (Year)"
 section: case-studies
 category: breaches | ransomware-attacks | nation-state
@@ -49,7 +49,7 @@ Context about the threat actor if applicable. Known group? Previously active? Kn
 
 ### Initial Access
 
-How did the attacker first get into the environment? What was the entry point — phishing, unpatched vulnerability, credential theft, insider threat, supply chain compromise?
+How did the attacker first get into the environment? What was the entry point: phishing, unpatched vulnerability, credential theft, insider threat, supply chain compromise?
 
 ### Progression
 
@@ -57,7 +57,7 @@ What happened after initial access? How did the attacker move through the enviro
 
 ### Technical Details
 
-Specific technical elements of the attack — exploit used, malware family, tools observed. Only include what has been publicly confirmed.
+Specific technical elements of the attack: exploit used, malware family, tools observed. Only include what has been publicly confirmed.
 
 ```
 # Include any confirmed technical indicators if relevant
@@ -66,7 +66,7 @@ Specific technical elements of the attack — exploit used, malware family, tool
 
 ### What Made It Possible
 
-What specific failures enabled this incident? Technical failures, process failures, human failures? Be specific and factual — do not speculate.
+What specific failures enabled this incident? Technical failures, process failures, human failures? Be specific and factual: do not speculate.
 
 ---
 
@@ -78,7 +78,7 @@ What was accessed, stolen, or exposed? How many records? What type of data?
 
 ### Financial Impact
 
-Documented costs — fines, remediation, legal costs, stock impact, settlement amounts.
+Documented costs: fines, remediation, legal costs, stock impact, settlement amounts.
 
 ### Operational Impact
 
@@ -112,7 +112,7 @@ Fines, enforcement actions, lawsuits, settlements.
 
 ## Lessons Learned
 
-What does this incident reveal about broader security failures? Write this section to be useful to a defender — not as criticism of the victim, but as analysis of the conditions that made this possible.
+What does this incident reveal about broader security failures? Write this section to be useful to a defender: not as criticism of the victim, but as analysis of the conditions that made this possible.
 
 - **Lesson 1:** [Specific, actionable observation]
 - **Lesson 2:** [Specific, actionable observation]
@@ -122,7 +122,7 @@ What does this incident reveal about broader security failures? Write this secti
 
 ## Related Cases
 
-- [Related Incident](../category/related-incident.md) — brief note on what connects them
+- [Related Incident](../category/related-incident.md): brief note on what connects them
 
 ---
 
@@ -130,7 +130,7 @@ What does this incident reveal about broader security failures? Write this secti
 
 All information in this case study is drawn from publicly reported sources.
 
-- [Source Title](https://url.example.com) — note on what it covers
+- [Source Title](https://url.example.com): note on what it covers
 - [Regulatory filing or enforcement action](https://url.example.com)
 - [Official breach notification](https://url.example.com)
 - Journalist/Researcher, *Title*, Publication, Date

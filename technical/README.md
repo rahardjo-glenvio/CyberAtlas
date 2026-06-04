@@ -1,8 +1,8 @@
-# Technical
+﻿# Technical
 
 Core cybersecurity knowledge, organized by domain.
 
-This section covers the technical foundations that underlie everything else in security — how systems work, how they fail, and how defenders think about protecting them.
+This section covers the technical foundations that underlie everything else in security: how systems work, how they fail, and how defenders think about protecting them.
 
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Books"
 section: resources
 date_created: 2026-06-01

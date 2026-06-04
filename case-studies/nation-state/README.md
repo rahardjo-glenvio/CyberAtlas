@@ -1,6 +1,6 @@
-# Nation-State Operations
+﻿# Nation-State Operations
 
-State-sponsored cyber operations — espionage, sabotage, and influence.
+State-sponsored cyber operations: espionage, sabotage, and influence.
 
 ---
 

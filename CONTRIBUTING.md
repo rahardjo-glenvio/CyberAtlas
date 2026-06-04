@@ -1,4 +1,4 @@
-# Contributing to CyberAtlas
+﻿# Contributing to CyberAtlas
 
 Thank you for considering a contribution. This guide explains what belongs here, how content should be structured, and how to submit it.
 
@@ -28,9 +28,9 @@ Thank you for considering a contribution. This guide explains what belongs here,
 
 ## Before You Start
 
-1. Check the [Roadmap](docs/roadmap.md) — your topic may already be planned
+1. Check the [Roadmap](docs/roadmap.md): your topic may already be planned
 2. Search existing content to avoid duplication
-3. Read the [Style Guide](docs/style-guide.md) — all content must conform to it
+3. Read the [Style Guide](docs/style-guide.md): all content must conform to it
 4. Choose the right [template](_templates/) for your content type
 
 ---
@@ -98,10 +98,10 @@ Each section and subsection has a `README.md` that serves as its index. When you
 ## Quality Standards
 
 **For all content:**
-- Claims must be verifiable — include sources where appropriate
+- Claims must be verifiable: include sources where appropriate
 - Write in clear, direct sentences
 - Explain *why*, not just *what*
-- Do not pad length — shorter and accurate is better than long and vague
+- Do not pad length: shorter and accurate is better than long and vague
 
 **For technical topics:**
 - Include practical context, not just definitions

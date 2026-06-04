@@ -1,4 +1,4 @@
----
+﻿---
 name: Content Suggestion
 about: Suggest a new topic, case study, or resource to add
 title: "[SUGGESTION] "

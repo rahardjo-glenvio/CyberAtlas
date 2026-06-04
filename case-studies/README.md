@@ -1,4 +1,4 @@
-# Case Studies
+﻿# Case Studies
 
 Real incidents, examined with structured analysis.
 
@@ -10,7 +10,7 @@ Security failures are one of the most effective learning tools available. Every 
 
 | Category | Description |
 |---|---|
-| [Breaches](breaches/) | Data breaches — unauthorized access to sensitive information at scale |
+| [Breaches](breaches/) | Data breaches: unauthorized access to sensitive information at scale |
 | [Ransomware Attacks](ransomware-attacks/) | Ransomware incidents against organizations, critical infrastructure, and public services |
 | [Nation-State Operations](nation-state/) | State-sponsored intrusions, espionage, and sabotage |
 | [Lessons Learned](lessons-learned/) | Cross-cutting analysis of patterns, failures, and improvements across incidents |
@@ -21,14 +21,14 @@ Security failures are one of the most effective learning tools available. Every 
 
 Every case study in this repository follows the same structure:
 
-1. **Overview** — What happened, when, and to whom
-2. **Background** — Context about the organization and environment
-3. **Timeline** — Key events in sequence
-4. **How It Happened** — The technical and human factors that enabled the incident
-5. **Impact** — Scale, cost, and consequences
-6. **Response** — What was done and how quickly
-7. **Lessons Learned** — What this incident reveals about broader security failures
-8. **Sources** — All referenced materials
+1. **Overview**: What happened, when, and to whom
+2. **Background**: Context about the organization and environment
+3. **Timeline**: Key events in sequence
+4. **How It Happened**: The technical and human factors that enabled the incident
+5. **Impact**: Scale, cost, and consequences
+6. **Response**: What was done and how quickly
+7. **Lessons Learned**: What this incident reveals about broader security failures
+8. **Sources**: All referenced materials
 
 This structure makes cases easy to compare and ensures consistent depth.
 

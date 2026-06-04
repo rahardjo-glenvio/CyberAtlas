@@ -1,4 +1,4 @@
----
+﻿---
 title: "Awareness Article Title"
 section: explore
 topic: topic-name
@@ -27,7 +27,7 @@ Use an analogy where helpful. Analogies should clarify, not oversimplify.
 
 ## Why This Matters
 
-Concrete, specific consequences. Not "this is a serious problem" — but what actually happens to real people, organizations, or systems.
+Concrete, specific consequences. Not "this is a serious problem": but what actually happens to real people, organizations, or systems.
 
 Use documented examples or statistics where available. Cite them.
 
@@ -61,15 +61,15 @@ For an organization:
 
 ## What You Can Do
 
-Practical, actionable steps. Not generic advice ("be careful online") — specific actions with clear effect.
+Practical, actionable steps. Not generic advice ("be careful online"): specific actions with clear effect.
 
 For individuals:
-1. Specific action — what it does and how to do it
-2. Specific action — what it does and how to do it
+1. Specific action: what it does and how to do it
+2. Specific action: what it does and how to do it
 
 For organizations:
-1. Specific action — what it does and how to implement it
-2. Specific action — what it does and how to implement it
+1. Specific action: what it does and how to implement it
+2. Specific action: what it does and how to implement it
 
 ---
 
@@ -91,15 +91,15 @@ A brief case, incident, or documented example that shows the topic as a real eve
 
 ## Further Reading
 
-- [Source Title](https://url.example.com) — note on what it covers
-- [Case Study Link](../case-studies/category/filename.md) — if relevant
+- [Source Title](https://url.example.com): note on what it covers
+- [Case Study Link](../case-studies/category/filename.md): if relevant
 
 ---
 
 ## Sources
 
-- [Source](https://url.example.com) — brief note
-- [Source](https://url.example.com) — brief note
+- [Source](https://url.example.com): brief note
+- [Source](https://url.example.com): brief note
 
 ---
 

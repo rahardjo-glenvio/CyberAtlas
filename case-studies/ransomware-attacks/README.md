@@ -1,4 +1,4 @@
-# Ransomware Attacks
+﻿# Ransomware Attacks
 
 Documented ransomware incidents against organizations and critical infrastructure.
 

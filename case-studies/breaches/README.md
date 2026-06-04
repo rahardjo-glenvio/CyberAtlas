@@ -1,6 +1,6 @@
-# Breaches
+﻿# Breaches
 
-Data breaches — unauthorized access to sensitive information at scale.
+Data breaches: unauthorized access to sensitive information at scale.
 
 ---
 

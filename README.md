@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="docs/assets/banner.png" width="100%" alt="CyberAtlas">
 
@@ -19,7 +19,7 @@
 
 Cybersecurity is not only about hacking.
 
-It is about understanding how attacks happen, why they succeed, who is affected, how organizations respond, how regulations evolve, and how security intersects with daily life — from personal privacy to national infrastructure.
+It is about understanding how attacks happen, why they succeed, who is affected, how organizations respond, how regulations evolve, and how security intersects with daily life: from personal privacy to national infrastructure.
 
 CyberAtlas is a long-term public knowledge base. It is designed to grow continuously: covering technical topics, security awareness, real-world incidents, laws, education, and personal learning documentation.
 
@@ -31,18 +31,18 @@ It is not a course. It is not a cheat sheet collection. It is a structured knowl
 
 | Section | What It Covers |
 |---|---|
-| [Technical](technical/) | Core cybersecurity skills — networking, operating systems, web security, cloud, cryptography, malware analysis, incident response |
-| [Explore](explore/) | The broader landscape — privacy, AI security, social engineering, ransomware as an industry, deepfakes, digital footprints |
-| [Case Studies](case-studies/) | Real incidents, analyzed — data breaches, ransomware attacks, nation-state operations, security failures |
+| [Technical](technical/) | Core cybersecurity skills: networking, operating systems, web security, cloud, cryptography, malware analysis, incident response |
+| [Explore](explore/) | The broader landscape: privacy, AI security, social engineering, ransomware as an industry, deepfakes, digital footprints |
+| [Case Studies](case-studies/) | Real incidents, analyzed: data breaches, ransomware attacks, nation-state operations, security failures |
 | [Laws & Privacy](laws-and-privacy/) | Legal frameworks, data protection rights, compliance, and digital ethics |
-| [School Cybersecurity](school-cybersecurity/) | Security awareness in education — students, teachers, institutions |
-| [Resources](resources/) | Curated external references — books, courses, tools, cheatsheets |
+| [School Cybersecurity](school-cybersecurity/) | Security awareness in education: students, teachers, institutions |
+| [Resources](resources/) | Curated external references: books, courses, tools, cheatsheets |
 
 ---
 
 ## Repository Philosophy
 
-> Understanding cybersecurity deeply — not just technically — builds better defenders, clearer communicators, and more security-aware citizens.
+> Understanding cybersecurity deeply, not just technically, builds better defenders, clearer communicators, and more security-aware citizens.
 
 Three principles guide every piece of content in this repository:
 
@@ -74,7 +74,7 @@ Cybersecurity does not exist in isolation. This section covers the broader lands
 
 ### 🔍 Case Studies
 
-Real incidents examined with structured analysis. Every case study follows a consistent format: what happened, how it unfolded, what the impact was, and what can be learned. Cases span data breaches, ransomware attacks, nation-state intrusions, and security failures at scale. No speculation — only documented facts with cited sources.
+Real incidents examined with structured analysis. Every case study follows a consistent format: what happened, how it unfolded, what the impact was, and what can be learned. Cases span data breaches, ransomware attacks, nation-state intrusions, and security failures at scale. No speculation: only documented facts with cited sources.
 
 → [Browse Case Studies](case-studies/)
 
@@ -82,7 +82,7 @@ Real incidents examined with structured analysis. Every case study follows a con
 
 ### ⚖️ Laws & Privacy
 
-Security and law are inseparable. This section covers data protection legislation, privacy rights, compliance frameworks, and digital ethics — explained for a technical audience without unnecessary legal jargon. Covers GDPR, PDPA, and regional equivalents, along with emerging digital ethics questions.
+Security and law are inseparable. This section covers data protection legislation, privacy rights, compliance frameworks, and digital ethics: explained for a technical audience without unnecessary legal jargon. Covers GDPR, PDPA, and regional equivalents, along with emerging digital ethics questions.
 
 → [Browse Laws & Privacy](laws-and-privacy/)
 
@@ -98,7 +98,7 @@ Educational institutions are high-value, systematically under-secured targets. T
 
 ### 📖 Resources
 
-A curated list of books, courses, tools, and references. Organized by category, with brief annotations explaining why each resource is worth your time. Not a link dump — every entry is here for a specific reason.
+A curated list of books, courses, tools, and references. Organized by category, with brief annotations explaining why each resource is worth your time. Not a link dump: every entry is here for a specific reason.
 
 → [Browse Resources](resources/)
 
@@ -195,7 +195,7 @@ Before contributing, read the [Contributing Guide](CONTRIBUTING.md) and the [Sty
 | 2026-06-02 | Explore / AI Security | [AI dalam Cybersecurity: Senjata Baru di Kedua Sisi](explore/ai-security/ai-dalam-cybersecurity.md) |
 | 2026-06-02 | Explore / AI Security | [AI dalam Kehidupan dan Pekerjaan Sehari-Hari](explore/ai-security/ai-dalam-kehidupan-sehari-hari.md) |
 | 2026-06-02 | Explore / AI Security | [AI Menggantikan Manusia: Ancaman Nyata atau Alarm Palsu?](explore/ai-security/ai-menggantikan-manusia.md) |
-| 2026-06-01 | Laws & Privacy | [UU PDP — Undang-Undang Perlindungan Data Pribadi Indonesia](laws-and-privacy/data-protection/uu-pdp-indonesia.md) |
+| 2026-06-01 | Laws & Privacy | [UU PDP: Undang-Undang Perlindungan Data Pribadi Indonesia](laws-and-privacy/data-protection/uu-pdp-indonesia.md) |
 
 ---
 

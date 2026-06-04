@@ -1,4 +1,4 @@
----
+﻿---
 title: "AI dalam Cybersecurity: Senjata Baru di Kedua Sisi"
 section: explore
 topic: ai-security
@@ -73,7 +73,7 @@ Ini bukan khayalan. Sudah ada kasus nyata dimana perusahaan kehilangan miliaran 
 
 Sekarang sisi yang sama pentingnya: bagaimana AI digunakan oleh tim keamanan. Data dari IBM Cost of Data Breach Report 2024 memberikan gambaran yang cukup jelas tentang seberapa besar perbedaannya.
 
-Organisasi yang menggunakan AI security secara penuh rata-rata mengeluarkan **$3.05 juta** per insiden breach, dibanding **$5.36 juta** untuk yang tidak menggunakan AI sama sekali — penghematan rata-rata **$2.22 juta per insiden**.
+Organisasi yang menggunakan AI security secara penuh rata-rata mengeluarkan **$3.05 juta** per insiden breach, dibanding **$5.36 juta** untuk yang tidak menggunakan AI sama sekali: penghematan rata-rata **$2.22 juta per insiden**.
 
 ```mermaid
 xychart-beta
@@ -95,7 +95,7 @@ SIEM modern seperti Splunk, Microsoft Sentinel, dan Wazuh sudah mulai memasukkan
 
 Salah satu masalah terbesar di Security Operations Center (SOC) adalah kebanjiran alert. Sistem lama bisa generate begitu banyak notifikasi sehingga analyst kewalahan dan mulai melewatkan ancaman nyata di antara banyaknya alert palsu.
 
-Berdasarkan laporan Darktrace, penggunaan AI dalam security operations bisa mengurangi false positive alerts hingga **70%** — yang artinya analyst bisa fokus ke ancaman yang benar-benar nyata.
+Berdasarkan laporan Darktrace, penggunaan AI dalam security operations bisa mengurangi false positive alerts hingga **70%**: yang artinya analyst bisa fokus ke ancaman yang benar-benar nyata.
 
 AI bisa membantu dengan menentukan alert mana yang paling penting untuk ditangani duluan, menghubungkan kejadian-kejadian dari berbagai sumber untuk menemukan pola serangan yang tidak terlihat kalau dilihat satu per satu, dan mengurangi alert palsu yang menghabiskan waktu analyst.
 

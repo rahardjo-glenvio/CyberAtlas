@@ -1,4 +1,4 @@
-# Linux
+﻿# Linux
 
 Linux internals, permissions, and security fundamentals.
 
@@ -17,7 +17,7 @@ Linux is the dominant operating system in server environments, cloud infrastruct
 ## What This Section Covers
 
 - Filesystem hierarchy and where security-relevant files live
-- User and permission model — UIDs, GIDs, SUID, capabilities
+- User and permission model: UIDs, GIDs, SUID, capabilities
 - Process management and service persistence
 - Log files and what they record
 - Common privilege escalation vectors

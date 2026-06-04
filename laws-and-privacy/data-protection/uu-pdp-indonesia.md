@@ -1,4 +1,4 @@
----
+﻿---
 title: "UU PDP: Undang-Undang Perlindungan Data Pribadi Indonesia"
 section: laws-and-privacy
 category: data-protection

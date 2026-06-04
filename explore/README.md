@@ -1,8 +1,8 @@
-# Explore
+﻿# Explore
 
 Cybersecurity at the intersection of technology, society, and human behavior.
 
-This section covers topics that sit beyond the purely technical — the social, political, economic, and behavioral dimensions of security. These topics matter for anyone who wants to understand cybersecurity as a phenomenon, not just a skill set.
+This section covers topics that sit beyond the purely technical: the social, political, economic, and behavioral dimensions of security. These topics matter for anyone who wants to understand cybersecurity as a phenomenon, not just a skill set.
 
 ---
 
@@ -14,7 +14,7 @@ This section covers topics that sit beyond the purely technical — the social, 
 | [Digital Privacy](digital-privacy/) | What data is collected, by whom, and what individuals can do |
 | [AI & Security](ai-security/) | How artificial intelligence changes both attacks and defenses |
 | [Social Engineering](social-engineering/) | The psychology and techniques behind human-targeted attacks |
-| [Ransomware](ransomware/) | Ransomware as a criminal industry — business model, operations, impact |
+| [Ransomware](ransomware/) | Ransomware as a criminal industry: business model, operations, impact |
 | [Deepfakes](deepfakes/) | The technology, the threats, and the challenge of detection |
 | [Digital Footprint](digital-footprint/) | What you leave behind and how it is collected, aggregated, and used |
 

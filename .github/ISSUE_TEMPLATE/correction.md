@@ -1,4 +1,4 @@
----
+﻿---
 name: Correction
 about: Report a factual error, outdated information, or broken link
 title: "[CORRECTION] "
