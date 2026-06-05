@@ -192,6 +192,9 @@ Before contributing, read the [Contributing Guide](CONTRIBUTING.md) and the [Sty
 
 | Date | Section | Topic |
 |------|---------|-------|
+| 2026-06-04 | Case Studies | [KPU Data Breach 2023: 204 Juta Data Pemilih Bocor](case-studies/breaches/kpu-data-breach-2023.md) |
+| 2026-06-04 | Case Studies | [Bank BSI Ransomware 2023: LockBit dan Double Extortion](case-studies/breaches/bank-bsi-ransomware-2023.md) |
+| 2026-06-04 | Case Studies | [BPJS Kesehatan Data Breach 2021: 279 Juta Records](case-studies/breaches/bpjs-kesehatan-2021.md) |
 | 2026-06-02 | Explore / AI Security | [AI dalam Cybersecurity: Senjata Baru di Kedua Sisi](explore/ai-security/ai-dalam-cybersecurity.md) |
 | 2026-06-02 | Explore / AI Security | [AI dalam Kehidupan dan Pekerjaan Sehari-Hari](explore/ai-security/ai-dalam-kehidupan-sehari-hari.md) |
 | 2026-06-02 | Explore / AI Security | [AI Menggantikan Manusia: Ancaman Nyata atau Alarm Palsu?](explore/ai-security/ai-menggantikan-manusia.md) |
